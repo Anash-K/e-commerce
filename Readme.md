@@ -1,6 +1,6 @@
 E-Commerce MERN App
 
-A full-stack E-Commerce application built with MERN stack (MongoDB, Express, React, Node.js) and TypeScript, featuring a clean architecture, responsive design, and global state management using React Context.
+A full-stack E-Commerce application built with MERN stack (Express, React, Node.js) and TypeScript, featuring a clean architecture, responsive design, and global state management using React Context.
 
 Table of Contents
 
