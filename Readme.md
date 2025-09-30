@@ -37,7 +37,7 @@ Tech Stack
 Other: Axios, PNPM (package manager)
 
 Folder Structure
-
+#bash
 ecommerce-project/
 │
 ├── backend/
